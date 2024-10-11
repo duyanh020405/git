@@ -1,10 +1,29 @@
 {
   "products": [
     {
-      "name": "s",
+      "name": "w",
       "price": 1,
       "quantity": "01",
-      "id": 1
+      "id": 2
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "name": "DuyAnh",
+      "email": "DuyAnh@gmail.com",
+      "address": "Thai Binh",
+      "phone": "098377366",
+      "status": true,
+      "created": "09-11-2012"
+    },
+    {
+      "name": "Duy Anh 2",
+      "email": "bui0913291882@gmail.com",
+      "address": "Làng Vũ Đại",
+      "phone": "0973553661",
+      "date": "2024-10-16",
+      "id": 2
     }
   ]
 }
